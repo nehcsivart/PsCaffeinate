@@ -7,7 +7,7 @@ PsCaffeinate is a PowerShell utility to temporarily disable display sleep.
 2. Move the repo into your Modules directory. This is any location in `$env:PSModulePath`.
 
 *Hint : Add `caffeinate` as an alias to use this like the Mac version.*  
-*You can add an alias using `New-Alias caffeinate Start-Caffeinate -Force`*
+*You can add an alias using `New-Alias caffeinate Start-Caffeinate -Force`.*
 
 **Usage**
 
