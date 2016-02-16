@@ -2,6 +2,7 @@
 PsCaffeinate is a PowerShell utility to temporarily disable display sleep.
 
 *Installation*
+
 1. Download this repository (PsCaffeinate).
 2. Move the repo into your Modules directory. This is any location in `$env:PSModulePath`.
 
@@ -16,8 +17,11 @@ You may need to adjust the timeout depending on the time it takes for your displ
 The duration allows you to set how long Start-Caffeinate will run.
 
 For more help, use the help command:
+
     Get-Help Start-Caffeinate
+
 Or:
+
     Start-Caffeinate -?
 
 
