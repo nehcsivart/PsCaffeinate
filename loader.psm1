@@ -1,0 +1,1 @@
+. $PSScriptRoot\Start-Caffeinate.ps1
